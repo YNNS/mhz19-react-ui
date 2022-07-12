@@ -23,8 +23,8 @@ This project is part of the blog
 article [How I built my own CO2 monitor using a Raspberry Pi for Home Office](https://medium.com/@YNNSme/how-i-built-my-own-co2-monitor-using-a-raspberry-pi-for-home-office-c8b168fcadfa)
 .
 
-![Project showcase](/assets/image_2.png)
-![Project showcase](/assets/image.png)
+![Project showcase](https://user-images.githubusercontent.com/29334025/178571134-7efc5d1f-712a-4718-bb60-77bd9ed0c84f.png)
+![Project showcase](https://user-images.githubusercontent.com/29334025/178571122-d58e0871-aacc-4d64-ad30-f7446ec09650.png)
 
 # Quick Start
 
