@@ -1,0 +1,29 @@
+.app {
+    color: #fff;
+    background: #121317;
+    display: flex;
+
+    /** should be replaced with dynamic viewport units if chrome releases this feature as well: https://caniuse.com/viewport-unit-variants **/
+    min-width: 100vw;
+    min-height: 100vh;
+
+    flex-direction: column;
+    gap: .65rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-title {
+    margin: 0;
+}
+
+.app-card {
+    background: #1a1c23;
+    margin: 1rem;
+    padding: 4.65rem 3.12rem;
+    width: 100%;
+    max-width: 40rem;
+    border-radius: .5rem;
+    border: 1px solid rgb(255 255 255 / 15%);
+    text-align: center;
+}
